@@ -1,0 +1,21 @@
+﻿  paintchat2.cpp
+  SendSocket.cpp
+  RightView.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  paintchat2View.cpp
+c:\users\pc\documents\visual studio 2015\projects\paintchat2\paintchat2\paintchat2view.cpp(223): warning C4101: 'pOldPen' :참조되지 않은 지역 변수입니다.
+c:\users\pc\documents\visual studio 2015\projects\paintchat2\paintchat2\paintchat2view.cpp(277): warning C4002: '_T' 매크로의 실제 매개 변수가 너무 많습니다.
+  paintchat2Doc.cpp
+  NameSock.cpp
+  Mypacket.cpp
+  Erase.cpp
+  Element.cpp
+  CpaintchatChildView.cpp
+c:\users\pc\documents\visual studio 2015\projects\paintchat2\paintchat2\cpaintchatchildview.cpp(63): warning C4101: 'pOldPen' :참조되지 않은 지역 변수입니다.
+  ClientSock.cpp
+  CPen.cpp
+  코드를 생성하고 있습니다...
+  paintchat2.vcxproj -> C:\Users\PC\Documents\Visual Studio 2015\Projects\paintchat2\Debug\paintchat2.exe
+  paintchat2.vcxproj -> C:\Users\PC\Documents\Visual Studio 2015\Projects\paintchat2\Debug\paintchat2.pdb (Partial PDB)
